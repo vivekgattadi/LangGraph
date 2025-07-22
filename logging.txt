@@ -1,0 +1,13 @@
+Your Conversation Log: 
+You: Hi, I am Bob
+AI: Hello Bob! How can I assist you today?
+
+You: good mornging
+AI: Good morning! How's your day going so far?
+
+You: tell me a joke
+AI: Sure! Why don't scientists trust atoms?
+
+Because they make up everything!
+
+End of Conversation
